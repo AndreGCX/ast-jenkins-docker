@@ -5,7 +5,7 @@ It contains a list of pre installed plugins and the latest ast jenkins plugin ve
 
 
 - Run: 
-``` docker run -p 8080:8080 -p 50000:50000 ghcr.io/pedrompflopes/ast-jenkins-docker:latest ```
+``` docker run -p 8080:8080 -p 50000:50000 ghcr.io/andregcx/ast-jenkins-docker:latest ```
 
 - Open a browser on http://localhost:8080
 
