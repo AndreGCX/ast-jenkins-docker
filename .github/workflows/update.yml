@@ -1,4 +1,4 @@
-name: Update checkmarx scanner api
+name: Update checkmarx scanner api jenkins
 on: 
   workflow_dispatch:
   schedule:
